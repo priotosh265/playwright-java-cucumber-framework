@@ -26,7 +26,7 @@ Feature: CaseKaro Mobile Cover Purchase
         Then user validate "Samsung" brand results should be "not-visible"
         Then user validate "Vivo" brand results should be "not-visible"
 
-#    # Click apple and search model Iphone 16 pro
+    # Click apple and search model Iphone 16 pro
 #        When user click "Apple" brand
 #        Then search model "iPhone 16 Pro"
 

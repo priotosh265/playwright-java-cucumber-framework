@@ -11,8 +11,6 @@ public class CaseKaroConstants {
     public static String AddToCart = "//button[contains(normalize-space(), 'Add to cart')]";
     public static String CloseCart = "(//a[contains(@class, 'm6pn-close')])[1]";
     public static String Cart = "(//a[@href='/cart'])[1]";
-
-
     public static String MaterialInCart = "//div[@class='product-option']//dd[normalize-space()='%s']";
     public static String CartItemCount = "//tr[@class='cart-item']";
     public static String Material = "//div[@class='product-option'][dt='Material:']/dd";

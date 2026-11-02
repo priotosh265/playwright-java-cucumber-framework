@@ -3,7 +3,6 @@ package steps;
 import com.microsoft.playwright.*;
 import io.cucumber.java.en.*;
 import org.junit.Assert;
-import support.CaseKaroConstants;
 
 
 import static support.CaseKaroConstants.*;
